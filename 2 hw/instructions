@@ -1,0 +1,10 @@
+Chris said:
+
+go to build:
+then
+>> cmake .
+then 
+>> make
+
+type:
+src/johnny

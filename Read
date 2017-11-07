@@ -1,0 +1,6 @@
+
+Comand to compile and run the OPEN GL code in C++
+
+
+
+g++ open.cpp -lglut -lGLU -lGL
